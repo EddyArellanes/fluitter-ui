@@ -6,6 +6,7 @@ class ButtonFloating extends StatefulWidget{
     return _ButtonFloating();
   }
 }
+
 class _ButtonFloating extends State<ButtonFloating>{
   bool _pressed = false;
 
